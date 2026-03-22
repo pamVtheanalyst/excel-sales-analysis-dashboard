@@ -39,3 +39,13 @@ I used PivotTables and dashboards to extract meaningful business insights.
 
 #File
 - `sales_analysis.xlsx`
+Project Screenshots
+
+#Dashboard
+![Dashboard](images/dashboard.png)
+
+#Analysis (PivotTables)
+![Analysis](images/analysis.png)
+
+# Raw Data
+![Raw Data](images/raw_data.png)
